@@ -1,0 +1,353 @@
+[
+  { "code": 200, "title": "OK", "description": "", "image": "http://" },
+  { "code": 201, "title": "Created", "description": "", "image": "http://" },
+  { "code": 202, "title": "Accepted", "description": "", "image": "http://" },
+  {
+    "code": 203,
+    "title": "Non-Authoritative Information",
+    "description": "",
+    "image": "http://"
+  },
+  { "code": 204, "title": "No Content", "description": "", "image": "http://" },
+  {
+    "code": 205,
+    "title": "Reset Content",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 206,
+    "title": "Partial Content",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 207,
+    "title": "Multi-Status",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 208,
+    "title": "Already Reported (WebDAV)",
+    "description": "",
+    "image": "http://"
+  },
+  { "code": 226, "title": "IM Used", "description": "", "image": "http://" },
+  {
+    "code": 300,
+    "title": "Multiple Choices",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 301,
+    "title": "Moved Permanently",
+    "description": "",
+    "image": "http://"
+  },
+  { "code": 302, "title": "Found", "description": "", "image": "http://" },
+  { "code": 303, "title": "See Other", "description": "", "image": "http://" },
+  {
+    "code": 304,
+    "title": "Not Modified",
+    "description": "",
+    "image": "http://"
+  },
+  { "code": 305, "title": "Use Proxy", "description": "", "image": "http://" },
+  {
+    "code": 307,
+    "title": "Temporary Redirect",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 308,
+    "title": "Permanent Redirect",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 400,
+    "title": "Bad Request",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 401,
+    "title": "Unauthorized",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 402,
+    "title": "Payment Required",
+    "description": "",
+    "image": "http://"
+  },
+  { "code": 403, "title": "Forbidden", "description": "", "image": "http://" },
+  { "code": 404, "title": "Not Found", "description": "", "image": "http://" },
+  {
+    "code": 405,
+    "title": "Method Not Allowed",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 406,
+    "title": "Not Acceptable",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 407,
+    "title": "Proxy Authentication Required",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 408,
+    "title": "Request Timeout",
+    "description": "",
+    "image": "http://"
+  },
+  { "code": 409, "title": "Conflict", "description": "", "image": "http://" },
+  { "code": 410, "title": "Gone", "description": "", "image": "http://" },
+  {
+    "code": 411,
+    "title": "Length Required",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 412,
+    "title": "Precondition Failed",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 413,
+    "title": "Request Entity Too Large",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 414,
+    "title": "Request-URI Too Long",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 415,
+    "title": "Unsupported Media Type",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 416,
+    "title": "Requested Range Not Satisfiable",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 417,
+    "title": "Expectation Failed",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 418,
+    "title": "I'm a teapot",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 420,
+    "title": "Enhance Your Calm",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 421,
+    "title": "Misdirected Request",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 422,
+    "title": "Unprocessable Entity",
+    "description": "",
+    "image": "http://"
+  },
+  { "code": 423, "title": "Locked", "description": "", "image": "http://" },
+  {
+    "code": 424,
+    "title": "Failed Dependency",
+    "description": "",
+    "image": "http://"
+  },
+  { "code": 425, "title": "Too Early", "description": "", "image": "http://" },
+  {
+    "code": 426,
+    "title": "Upgrade Required",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 428,
+    "title": "Precondition Required",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 429,
+    "title": "Too Many Requests",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 431,
+    "title": "Request Header Fields Too Large",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 444,
+    "title": "No Response",
+    "description": "",
+    "image": "http://"
+  },
+  { "code": 449, "title": "Retry With", "description": "", "image": "http://" },
+  {
+    "code": 450,
+    "title": "Blocked by Windows Parental Controls",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 451,
+    "title": "Unavailable For Legal Reasons",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 497,
+    "title": "HTTP Request Sent to HTTPS Port",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 498,
+    "title": "Token expired/invalid",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 499,
+    "title": "Client Closed Request",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 500,
+    "title": "Internal Server Error",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 501,
+    "title": "Not Implemented",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 502,
+    "title": "Bad Gateway",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 503,
+    "title": "Service Unavailable",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 504,
+    "title": "Gateway Timeout",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 505,
+    "title": "HTTP Version Not Supported",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 506,
+    "title": "Variant Also Negotiates",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 507,
+    "title": "Insufficient Storage",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 508,
+    "title": "Loop Detected",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 509,
+    "title": "Bandwidth Limit Exceeded",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 510,
+    "title": "Not Extended",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 511,
+    "title": "Network Authentication Required",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 521,
+    "title": "Web Server is Down",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 523,
+    "title": "Origin is Unreachable",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 525,
+    "title": "SSL Handshake Failed",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 598,
+    "title": "Network read timeout error",
+    "description": "",
+    "image": "http://"
+  },
+  {
+    "code": 599,
+    "title": "Network connect timeout error",
+    "description": "",
+    "image": "http://"
+  }
+]
