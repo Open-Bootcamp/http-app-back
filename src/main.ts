@@ -8,7 +8,6 @@ async function bootstrap() {
     .setTitle('HTTP Status Code Cats')
     .setDescription('Documentación API para obtener los códigos de HTTP')
     .setVersion('1.0')
-    .addTag('cats')
     .build();
   const document = SwaggerModule.createDocument(app, config);
   SwaggerModule.setup('api', app, document);
