@@ -29,4 +29,4 @@ http://localhost:3000/api
 
 # Notas para Producción
 
-1. El API fue desplegado en Railway.app: <https://http-app-back-test-production.up.railway.app/>
+1. El API fue desplegado en Railway.app: <https://http-app-back-production.up.railway.app/>
